@@ -1,0 +1,43 @@
+body{
+background-image: url(sfondo.jpg);
+background-repeat: repeat;
+}
+#setdiv{
+margin: auto;
+width:70%;
+}
+h1{
+display:inline;
+color:white;
+position: relative;
+top:10px;
+}
+#setimage{
+width: 100px;
+margin-top:50px;
+}
+#setp{
+font-family:verdana;
+font-size:20px;
+color:white
+}
+#setnumber{
+background-color:orange;
+border-radius:50%;
+}
+.setbord{
+background-color:rgba(220,220,220,0.3);
+border:solid 1px black;
+margin:1px;
+}
+#setfooter{
+font-size:70%;
+}
+footer{
+color: white;
+font-size:20px;
+text-align: center;
+}
+#change{
+background-color: white;
+}
